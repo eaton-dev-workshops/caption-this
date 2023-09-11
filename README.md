@@ -1,4 +1,4 @@
-# GitHub for Developers - GDS
+# GitHub for Developers - GDS!!
 
 - Class Date: Sep 11 - 12, 2023
 - Facilitator: @cody-carlson
